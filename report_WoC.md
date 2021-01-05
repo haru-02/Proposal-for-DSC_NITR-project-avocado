@@ -4,7 +4,7 @@ Rahul Balaji.
 
 # Organisation Name -  DSC NIT, Rourkela - Project-avocado
 
-#Overview 
+# Overview 
 
 Refactor of code to have proper state management in home page , Creating a shared Preference service under services.     
 
@@ -21,8 +21,8 @@ This project was mentored by – Abel Matthew, Chinmay, and Smarak. The project 
 
 # 1) setting up a shared preferences service :
 
-	in this task, I was responsible for creating a function to return an 	instance of sharedPreferences, 
-  and a function to save different types of content to disk using sharedPreferences. The issue is 	linked below.
+  in this task, I was responsible for creating a function to return an 	instance of sharedPreferences, 
+  and a function to save different types of content to disk using sharedPreferences. The issue is linked below.
 
 	#177 – Services - Create a sharedPreferences service.
   
@@ -30,11 +30,11 @@ This project was mentored by – Abel Matthew, Chinmay, and Smarak. The project 
  
 # 2) ViewModels – HomePage View Model :
 	
-	in this task, I was responsible in creating the view and view model of the home page, refactoring the code and tweaking 	
+  in this task, I was responsible in creating the view and view model of the home page, refactoring the code and tweaking 	
   minor errors that came along the way for the smooth functioning of the home page of the project.
 
-	During this task, I got into discussions about the MVVM architecture and resolving relevant errors with Smarak and 	
-  Chinmay. After a few suggested changes, the issue was finally 	closed. The issue is linked below.
+  During this task, I got into discussions about the MVVM architecture and resolving relevant errors with Smarak and 	
+  Chinmay. After a few suggested changes, the issue was finally closed. The issue is linked below.
 
 	#178 – ViewModels – HomePage View Model.
   
@@ -45,13 +45,13 @@ This project was mentored by – Abel Matthew, Chinmay, and Smarak. The project 
 1. https://github.com/dscnitrourkela/project-avocado/pull/180
 2. https://github.com/dscnitrourkela/project-avocado/pull/196
 
-Future Scope of Work :
+# Future Scope of Work :
 
 Though my time spent on the project is short, I believe my work has made a significant impact in the maintainability of the code put 
 In by many contributors like myself. Suffice to say that the work has only begun and the conversion of all other pages of the app to 
 MVVM architecture will take place subsequently.
 
-Acknowledgments:
+# Acknowledgments:
 
 I had an exciting and informative winter this year working on project-avocado as a part of Winter of Code. I am grateful to have been 
 mentored by Abel, Chinmay and Smarak who have played a big role in my growth as a developer this past month. Working on this project opened 
